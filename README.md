@@ -1,5 +1,4 @@
 # BankAccountSimulation
-# Bank Account Simulation (Java OOP)
 
 This project simulates a simple banking system with deposits, withdrawals, interest application, and transaction history.
 
